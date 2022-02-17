@@ -1,0 +1,28 @@
+.addBtn {
+    color: green;
+}
+
+.resetBtn {
+    color: blue;
+}
+
+.addBtn:hover {
+    background-color: green;
+    color: aliceblue;
+}
+
+.resetBtn:hover {
+    background-color: blue;
+    color: aliceblue;
+}
+
+.addBtn,
+.resetBtn {
+    background-color: transparent;
+    border: none;
+    border-radius: 20%;
+}
+
+input:checked {
+    background-color: black;
+}

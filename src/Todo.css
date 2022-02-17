@@ -1,0 +1,13 @@
+.deleteButton {
+    background-color: transparent;
+    border: none;
+    font-size: large;
+}
+
+.deleteButton:hover {
+    color: orangered;
+}   
+
+.checkbox:hover {
+    transform: scale(1.5);
+}
